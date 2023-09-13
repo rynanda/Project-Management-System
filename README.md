@@ -1,2 +1,2 @@
-# Project-Management-System
-Managing a list of tasks in a project using data structures and algorithms. As part of CAB301 - Algorithms and Complexity.
+# Project Management System
+Managing a list of tasks in a project using data structures and algorithms. Identifying significant abstract data types (ADTs) in a real-world application, designing and implementing the identified ADTs, then using the ADTs to build a real-world application. Applying algorithms to solve computational problems arising from the ADT implementations and application building.
